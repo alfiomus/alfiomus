@@ -1,4 +1,8 @@
-### Hello there!!! 🛸
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/ZsvCb41sxKnfm9q1Oe/giphy.gif" width="200" />
+	<h1 align="center">Hello there!!!</hi>
+	<h3 align="center">Presentation text</h3>
+</div>
 
 <!--
 **alfiomus/alfiomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
