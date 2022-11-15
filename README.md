@@ -36,6 +36,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfiomus&theme=merko&border_radius=1.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Alfiomus GitHub stats](https://github-readme-stats.vercel.app/api?username=alfiomus&show_icons=true&theme=merko) 
+<!-- 
+theme para los stats:  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiomus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **alfiomus/alfiomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
