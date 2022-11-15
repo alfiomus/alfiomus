@@ -1,7 +1,15 @@
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/ZsvCb41sxKnfm9q1Oe/giphy.gif" width="200" />
-	<h1 align="center">Hello there!!!</hi>
-	<h3 align="center">Presentation text</h3>
+	<table>
+		<tr>
+			<td>
+				<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEn4q-pRfoS6A/profile-displayphoto-shrink_800_800/0/1616963721636?e=1674086400&v=beta&t=h3UrjFFlCKm_zniP-4JQpxxvTsUAOXtTREQ4CeRusYY" width="200" />
+			</td>
+			<td>
+				<h1 align="center">Hello there!!!</hi>
+				<h3 align="center">Presentation text</h3>
+			</td>
+		</tr>
+	</table>
 </div>
 
 <!--
@@ -18,4 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-�
+
