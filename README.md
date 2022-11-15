@@ -1,15 +1,33 @@
-<div id="header" align="center">
-	<table>
-		<tr>
-			<td>
-				<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEn4q-pRfoS6A/profile-displayphoto-shrink_800_800/0/1616963721636?e=1674086400&v=beta&t=h3UrjFFlCKm_zniP-4JQpxxvTsUAOXtTREQ4CeRusYY" width="200" />
-			</td>
-			<td>
+<div id="header" align="left">
+	<table style="border: hidden">
+		<tr style="border: hidden">
+			<td style="border: hidden" colspan="70" align="center">
 				<h1 align="center">Hello there!!!</hi>
-				<h3 align="center">Presentation text</h3>
+				<h3 align="center">Tech friki, passionate for technology, developer dressed as PM. </h3>
+			</td>
+			<td sstyle="border: hidden" colspan="30" align="center">
+				<img src="https://abrakadabra.fun/uploads/posts/2022-01/1643104138_1-abrakadabra-fun-p-oboi-dlya-programmistov-na-telefon-1.jpg" width="200" />
 			</td>
 		</tr>
 	</table>
+</div>
+
+<div align="left">
+	<h3>Languajes, Tools and Frameworks I use</h3>
+	<div>
+		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Html5" **alt="Html5" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" **alt="CSS3" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" **alt="JS" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" **alt="Python" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" **alt="MySql" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSql" **alt="PostgreSql" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MsSql" **alt="MsSql" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" title="Jira" **alt="Jira" width="40" height="40" />
+	</div>
 </div>
 
 <!--
