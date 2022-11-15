@@ -26,6 +26,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSql" **alt="PostgreSql" width="40" height="40" />
 		<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MsSql" **alt="MsSql" width="40" height="40" />
 		<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="40" height="40" />
+		<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40" />
 		<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" title="Jira" **alt="Jira" width="40" height="40" />
 	</div>
 </div>
