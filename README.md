@@ -41,7 +41,7 @@
 theme para los stats:  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiomus&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiomus&theme=merko&langs_count=10)](https://github.com/alfiomus/github-readme-stats)
 
 
 <!--
